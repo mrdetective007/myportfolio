@@ -9,49 +9,48 @@ import {
 import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
-  name: "Bartosz Jarocki",
-  initials: "BJ",
-  location: "Wrocław, Poland, CET",
-  locationLink: "https://www.google.com/maps/place/Wrocław",
+  name: "Jeet Shah",
+  initials: "JS",
+  location: "Bengaluru, India",
+  locationLink: "https://www.google.com/maps/place/Bengaluru",
   about:
-    "Detail-oriented Full Stack Engineer dedicated to building high-quality products.",
+    "Software Engineer focussing on intricate functioning of Audio.",
   summary: (
     <>
-      Frontend-focused Full Stack Engineer specializing in high-performance
-      React applications, scalable Node.js services, and real-time collaboration
-      systems. Experienced in technical architecture design and remote team
-      leadership.
+      Software Engineer serving as an Audio Engineer
+      with immaculate acumen over audio features, processing and architecture.
+      With research domains vacillating over LLM, Gen AI, NLP, DNN and ML. 
     </>
   ),
-  avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
-  personalWebsiteUrl: "https://jarocki.me",
+  avatarUrl: "https://avatars.githubusercontent.com/u/97144131?s=400&u=6593e0e72bfd2ef3932af03d83e7fec0a1ef6824&v=4",
+  // personalWebsiteUrl: "https://jarocki.me",
   contact: {
-    email: "bartosz.jarocki@hey.com",
-    tel: "+48530213401",
+    email: "jeetashah25@gmail.com",
+    tel: "+91-9998976965",
     social: [
       {
         name: "GitHub",
-        url: "https://github.com/BartoszJarocki",
+        url: "https://github.com/mrdetective007",
         icon: GitHubIcon,
       },
       {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/bjarocki/",
+        url: "https://www.linkedin.com/in/jeet-shah-b33267237/",
         icon: LinkedInIcon,
       },
-      {
-        name: "X",
-        url: "https://x.com/BartoszJarocki",
-        icon: XIcon,
-      },
+      // {
+      //   name: "X",
+      //   url: "https://x.com/BartoszJarocki",
+      //   icon: XIcon,
+      // },
     ],
   },
   education: [
     {
-      school: "Wrocław University of Technology",
-      degree: "Bachelor's Degree in Control systems engineering and Robotics",
-      start: "2007",
-      end: "2010",
+      school: "Birla Institute of Technology and Science, Pilani",
+      degree: "Bachelor's Degree in Computer Science with minor in Data Science",
+      start: "2020",
+      end: "2024",
     },
   ],
   work: [
