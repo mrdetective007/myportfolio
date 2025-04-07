@@ -23,7 +23,7 @@ export const RESUME_DATA = {
     </>
   ),
   avatarUrl: "https://avatars.githubusercontent.com/u/97144131?s=400&u=6593e0e72bfd2ef3932af03d83e7fec0a1ef6824&v=4",
-  // personalWebsiteUrl: "https://jarocki.me",
+  personalWebsiteUrl: "https://leetcode.com/mrdetective007/",
   contact: {
     email: "jeetashah25@gmail.com",
     tel: "+91-9998976965",
@@ -38,11 +38,11 @@ export const RESUME_DATA = {
         url: "https://www.linkedin.com/in/jeet-shah-b33267237/",
         icon: LinkedInIcon,
       },
-      // {
-      //   name: "X",
-      //   url: "https://x.com/BartoszJarocki",
-      //   icon: XIcon,
-      // },
+      {
+        name: "X",
+        url: "https://x.com/BartoszJarocki",
+        icon: XIcon,
+      },
     ],
   },
   education: [
