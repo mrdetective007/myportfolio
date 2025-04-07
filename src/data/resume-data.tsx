@@ -13,6 +13,10 @@ export const RESUME_DATA = {
   initials: "JS",
   location: "Bengaluru, India",
   locationLink: "https://www.google.com/maps/place/Bengaluru",
+  name: "Jeet Shah",
+  initials: "JS",
+  location: "Bengaluru, India",
+  locationLink: "https://www.google.com/maps/place/Bengaluru",
   about:
     "Software Engineer focussing on intricate functioning of Audio.",
   summary: (
